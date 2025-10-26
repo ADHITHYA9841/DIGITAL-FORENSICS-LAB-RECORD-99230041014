@@ -1,18 +1,21 @@
-# Ex.No 5 Use Autopsy to create a case and import evidence
+## Ex.No 5 Use Autopsy to create a case and import evidence##
 ## Description
 Autopsy is an open-source digital forensics platform used for analyzing and extracting data from digital devices. Here's a step-by-step process on how to use Autopsy for a basic forensic investigation:
 
-### 1. Installation
+## 1. Installation
 - Download and Install: Autopsy can be downloaded from the official website. Follow the installation instructions based on your operating system (Windows, Linux, or macOS).
 
 ### 2. Starting a New Case
 - Open Autopsy: Launch the application after installation.
+- <img width="989" height="550" alt="Screenshot 2025-10-26 210447" src="https://github.com/user-attachments/assets/4614d52d-b02b-4a7b-9af8-52c4b96326ac" />
+
 - Create a New Case:
      <br>
   -  *Click on New Case.*
     
     <br>
-   <img width="1713" height="907" alt="image" src="https://github.com/user-attachments/assets/591dce2a-1727-4fb5-9733-61d3f71df1e2" />
+ <img width="1212" height="682" alt="Screenshot 2025-10-26 210641" src="https://github.com/user-attachments/assets/fbcfd3e7-bed4-4dcf-8fa1-a61c0dbf444b" />
+
 
      <br>
      
@@ -21,9 +24,9 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
     
        <br>
        
-      <img width="990" height="589" alt="image" src="https://github.com/user-attachments/assets/4a9dca99-b53c-4679-8df4-ec1bf57c8440" />
+     <img width="697" height="391" alt="Screenshot 2025-10-26 210807" src="https://github.com/user-attachments/assets/01740ca1-be68-4748-acbe-b898e2b69a19" />
 
-     <br>
+     
 
 ### 3. Adding a Data Source
 - Choose the Type of Data Source
@@ -32,7 +35,8 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Start Analysis
  <br>
 
-  <img width="1712" height="908" alt="image" src="https://github.com/user-attachments/assets/c089b4ae-c7a8-4126-ad31-af70372acb72" />
+<img width="1365" height="767" alt="Screenshot 2025-10-26 210953" src="https://github.com/user-attachments/assets/d24c4508-5e16-4f4e-bed9-d2f6cbb969d0" />
+
 
 <br>
  <br>
@@ -43,7 +47,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Use the Tree Viewer
 
 <br>
-<img width="1918" height="1027" alt="Screenshot 2025-09-02 124232" src="https://github.com/user-attachments/assets/96c97853-49d1-4bc7-a578-470f1e618d22" />
+<img width="1365" height="767" alt="Screenshot 2025-10-26 211042" src="https://github.com/user-attachments/assets/4fe10b16-6cce-4f19-b768-787b343539bd" />
 
 <br>
 <br>
@@ -64,7 +68,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Hash Analysis:
   - Compare file hashes with known databases to identify known good or bad files.
     <br>
-<img width="1918" height="1022" alt="Screenshot 2025-09-02 124528" src="https://github.com/user-attachments/assets/7e7676f4-73a0-419c-94a0-d7cbeea9cf4e" />
+<img width="1218" height="690" alt="Screenshot 2025-10-26 213202" src="https://github.com/user-attachments/assets/2c1f7d2d-76ab-46a7-bbad-453bd5376f1a" />
 
 
 <br>
@@ -76,7 +80,8 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
  - After analyzing the data, click on Generate Report from the toolbar.
 
 <p align="center">
- <img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/1f8a73c6-1773-4fb6-ae4a-111d8ffbd0fe" />
+<img width="1212" height="685" alt="Screenshot 2025-10-26 213304" src="https://github.com/user-attachments/assets/d5708ef2-da7b-4c81-ac30-10065aff26e5" />
+
 </p>
 
 <p align="center">
@@ -86,7 +91,8 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 -  *Report*
 
 <br>
-<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/f9d90db8-78d2-40ad-b0fc-45d5acbc21e6" />
+<img width="1365" height="767" alt="Screenshot 2025-10-26 213336" src="https://github.com/user-attachments/assets/3f290622-5caf-42af-8de3-e03025b0c0fe" />
+
 
 <br>
 
