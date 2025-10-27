@@ -1,4 +1,4 @@
-**Experiment No. 06 — Digital Forensic Analysis using Sleuth Kit (TSK)**
+                       Experiment No. 06 — Digital Forensic Analysis using Sleuth Kit
 
 **Overview**
 
