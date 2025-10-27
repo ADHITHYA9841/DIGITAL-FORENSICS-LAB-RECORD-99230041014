@@ -1,4 +1,4 @@
-## Ex.No 5 Use Autopsy to create a case and import evidence##
+                                      Ex.No 5 Use Autopsy to create a case and import evidence
 ## Description
 Autopsy is an open-source digital forensics platform used for analyzing and extracting data from digital devices. Here's a step-by-step process on how to use Autopsy for a basic forensic investigation:
 
