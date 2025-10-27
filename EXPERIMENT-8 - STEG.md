@@ -1,4 +1,4 @@
-#  Ex.No.8 — Detect Hidden Data in Images Using StegExpose
+                            Ex.No.8 — Detect Hidden Data in Images Using StegExpose
 
 ---
 
