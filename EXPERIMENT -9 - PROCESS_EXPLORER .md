@@ -1,7 +1,7 @@
                         Ex.No.9: Analyzing Suspicious Processes with Process Explorer 
 
 **Overview**  
-**Process Explorer** is a powerful Windows tool that provides detailed insights into running processes. It helps monitor system activity, troubleshoot issues, and detect potentially malicious or unusual processes. 🔍
+**Process Explorer** is a powerful Windows tool that provides detailed insights into running processes. It helps monitor system activity, troubleshoot issues, and detect potentially malicious or unusual processes. 
 
 ---
 
@@ -13,7 +13,7 @@
 * **Extract Files:**  
   Unzip the downloaded package into a dedicated folder. 
 * **Run as Administrator:**  
-  Open the folder and launch `procexp64.exe` or `procexp.exe` by right-clicking and selecting **Run as Administrator**. 🛡️
+  Open the folder and launch `procexp64.exe` or `procexp.exe` by right-clicking and selecting **Run as Administrator**. 
   
 <img width="1365" height="767" alt="Screenshot 2025-10-27 213149" src="https://github.com/user-attachments/assets/beb4f208-7054-4e4c-8cff-cec02e86344a" />
 
