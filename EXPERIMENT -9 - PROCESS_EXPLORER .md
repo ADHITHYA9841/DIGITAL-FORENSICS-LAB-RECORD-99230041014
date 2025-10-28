@@ -83,6 +83,8 @@ To investigate potentially harmful processes:
 
 ---
 
+
+
 ### Step 6: Conduct a Full System Scan 
 
 * Run a comprehensive antivirus scan. 
