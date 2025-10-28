@@ -151,7 +151,7 @@ The tool lists images with potential hidden data and estimates the approximate s
 Generate a results file for easier review:
 
 ```bash
-java -jar StegExpose.jar "C:\Users\Sai Kumar\StegExpose\testFolder" fast 0.3 results.csv
+java -jar StegExpose.jar "C:\madhi\StegExpose\testFolder" fast 0.3 results.csv
 
 ```
 
